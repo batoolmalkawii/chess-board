@@ -1,4 +1,4 @@
-* version 1.0 PR: 
+* version 1.0 PR: https://github.com/batoolmalkawii/chess-board/pull/1
 
 # Chess Board
 In this project, we created a Chess board, which is an 8 by 8 grid of alternating black and white squares. 
